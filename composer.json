@@ -1,0 +1,10 @@
+{
+    "name": "treenation/treenation-for-woocommerce",
+    "description": "Offer a tree each time a customer buys a product.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0+",
+    "require": {
+        "composer/installers": "~1.0",
+        "php": ">=5.6"
+    }
+}
